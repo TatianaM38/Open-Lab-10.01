@@ -18,7 +18,7 @@ namespace Open_Lab_10._01
         {
             title = ttl;
             pages = pgs;
-            Console.WriteLine(title + " has " + pages + " pages");
+            Console.WriteLine(title + " has " + pages + " pages.");
         }
     }
 }
